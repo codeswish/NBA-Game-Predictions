@@ -124,3 +124,6 @@ Deep learning methods have not been applied to NBA game prediction very much per
 Thanks for reading my post and please feel free to comment with any questions or suggestions!
 
 And again here is a link to my [Colab notebook](https://colab.research.google.com/drive/1VAG5EXLXq9To7wtZVOT3VoX3X2mvILya?usp=sharing) containing all my code.
+
+
+Source: [An NBA Game Prediction Neural Network with ~77% accuracy. by u/vagartha](https://www.reddit.com/r/NBAanalytics/comments/10ewy7l/an_nba_game_prediction_neural_network_with_77/)
